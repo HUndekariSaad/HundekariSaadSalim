@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/saad24007" target="blank"><img src="https://img.shields.io/twitter/follow/saad24007?logo=twitter&style=for-the-badge" alt="saad24007" /></a> </p>
 
-- 🔭 I’m currently working Bankig Project **VIsionIndia**
+- 🔭 I’m currently working Banking Project **VIsionIndia**
 
 - 🌱 I’m currently learning **Angular,JavaScript,C#,,TypeScript**
 
